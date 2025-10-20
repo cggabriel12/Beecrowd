@@ -6,4 +6,4 @@ Este repositório contém soluções para os problemas de programação do Beecr
 
 O repositório está organizado da seguinte forma:
 terão as pastas com as categorias e as atividades com os seus respectivos números 
-as atividades estarão em python
+as atividades estarão em python e c++ 
