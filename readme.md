@@ -7,12 +7,10 @@ abordando diferentes níveis de dificuldade e tipos de problemas.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Python**
-- **JavaScript** (em alguns problemas)
-- Controle de versão com **Git**
-- Repositório hospedado no **GitHub**
-
+- **C++**
+   
 ---
 
 ##  O que foi praticado
