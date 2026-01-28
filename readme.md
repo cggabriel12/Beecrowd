@@ -1,9 +1,33 @@
-# Beecrowd - Atividades
+#  Beecrowd
 
-Este repositório contém soluções para os problemas de programação do Beecrowd (antigo URI Online Judge). As soluções são organizadas por linguagem de programação e por problema.
+Repositório dedicado à resolução de problemas da plataforma **Beecrowd**, com foco no desenvolvimento de **lógica de programação**, **pensamento computacional** e **boas práticas de código**.
 
-## Estrutura do Repositório
+Os exercícios resolvidos fazem parte do meu processo de aprendizado contínuo como estudante de **Engenharia de Software**, 
+abordando diferentes níveis de dificuldade e tipos de problemas.
 
-O repositório está organizado da seguinte forma:
-terão as pastas com as categorias e as atividades com os seus respectivos números 
-as atividades estarão em python e c++ 
+---
+
+## 🚀 Tecnologias Utilizadas
+- **Python**
+- **JavaScript** (em alguns problemas)
+- Controle de versão com **Git**
+- Repositório hospedado no **GitHub**
+
+---
+
+##  O que foi praticado
+- Estruturas condicionais
+- Laços de repetição
+- Funções
+- Manipulação de entrada e saída de dados
+- Lógica matemática aplicada
+- Organização e legibilidade de código
+
+---
+
+##  Objetivo do Repositório
+- Consolidar fundamentos da programação
+- Desenvolver raciocínio lógico para resolução de problemas
+- Criar um histórico de aprendizado prático e consistente
+- Servir como base para evolução em algoritmos e estruturas de dados
+
